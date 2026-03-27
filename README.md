@@ -4,7 +4,7 @@ Samuel Yao Adeklo Memorial -In Loving Memory
 # 🌿 In Loving Memory of Samuel Yao Adeklo
 
 <div align="center">
-  <img src="word_media_image4.png" alt="Memorial Banner" width="100%" />
+  <img src="word_media_image4.png" alt="Memorial Banner" width="40%" />
 </div>
 
 ---
@@ -74,22 +74,22 @@ I believe technology can do more than solve problems — it can **preserve legac
 
 ### 🏠 Wife
 <div align="center">
-  <img src="mom.jpg" width="80%" />
+  <img src="mom.jpg" width="40%" />
 </div>
 
 ### 📖 Son
 <div align="center">
-  <img src="gibson.jpeg" width="80%" />
+  <img src="gibson.jpeg" width="40%" />
 </div>
 
 ### 💬 Son
 <div align="center">
-  <img src="solo.png" width="80%" />
+  <img src="solo.png" width="40%" />
 </div>
 
 ### 🖼️ Son
 <div align="center">
-  <img src="word_media_image4.png" width="80%" />
+  <img src="word_media_image4.png" width="40%" />
 </div>
 
 ---
