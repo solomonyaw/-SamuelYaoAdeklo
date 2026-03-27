@@ -1,4 +1,4 @@
-# >SamuelYaoAdeklo
+# SamuelYaoAdeklo
 Samuel Yao Adeklo Memorial -In Loving Memory 
 
 # 🌿 In Loving Memory of Samuel Yao Adeklo
