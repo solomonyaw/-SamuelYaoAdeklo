@@ -4,7 +4,7 @@ Samuel Yao Adeklo Memorial -In Loving Memory
 # 🌿 In Loving Memory of Samuel Yao Adeklo
 
 <div align="center">
-  <img src="assets/images/banner.png" alt="Memorial Banner" width="100%" />
+  <img src="word_media_image4.png" alt="Memorial Banner" width="100%" />
 </div>
 
 ---
@@ -72,43 +72,24 @@ I believe technology can do more than solve problems — it can **preserve legac
 
 ## 🖼️ Project Preview (HTML Image Display)
 
-### 🏠 Homepage
+### 🏠 Wife
 <div align="center">
-  <img src="assets/images/homepage.png" width="80%" />
+  <img src="mom.jpg" width="80%" />
 </div>
 
-### 📖 Biography Section
+### 📖 Son
 <div align="center">
-  <img src="assets/images/biography.png" width="80%" />
+  <img src="gibson.jpeg" width="80%" />
 </div>
 
-### 💬 Tributes Section
+### 💬 Son
 <div align="center">
-  <img src="assets/images/tributes.png" width="80%" />
+  <img src="solo.png" width="80%" />
 </div>
 
-### 🖼️ Gallery
+### 🖼️ Son
 <div align="center">
-  <img src="assets/images/gallery.png" width="80%" />
-</div>
-
-### 🕯️ Memorial Section
-<div align="center">
-  <img src="assets/images/memorial.png" width="80%" />
-</div>
-
----
-
-## 🎨 AI Storytelling Sections
-
-<div align="center">
-  <img src="assets/images/ai-early-life.png" width="45%" />
-  <img src="assets/images/ai-family.png" width="45%" />
-</div>
-
-<div align="center">
-  <img src="assets/images/ai-career.png" width="45%" />
-  <img src="assets/images/ai-legacy.png" width="45%" />
+  <img src="word_media_image4.png" width="80%" />
 </div>
 
 ---
