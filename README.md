@@ -72,24 +72,24 @@ I believe technology can do more than solve problems — it can **preserve legac
 
 ## 🖼️ Project Preview (HTML Image Display)
 
-### 🏠 Wife
+### 🏠 Wife (Elizabeth Adeklo)
 <div align="center">
   <img src="mom.jpg" width="40%" />
 </div>
 
-### 📖 Son
+### 📖 Son (Michael Gibson Kumah)
 <div align="center">
   <img src="gibson.jpeg" width="40%" />
 </div>
 
-### 💬 Son
+### 💬 Son (Solomon Yaw Adeklo)
 <div align="center">
   <img src="solo.png" width="40%" />
 </div>
 
-### 🖼️ Son
+### 🖼️ Son (Patrick Adeklo)
 <div align="center">
-  <img src="word_media_image4.png" width="40%" />
+  <img src="word_media_image38.jpeg" width="40%" />
 </div>
 
 ---
