@@ -93,7 +93,21 @@ I believe technology can do more than solve problems — it can **preserve legac
 </div>
 
 ---
+# 📱🌿 Memorial App Now Available – Honoring My Dad’s Legacy 🌿
 
+I’m grateful to share another step in preserving the legacy of my late father, **Samuel Yao Adeklo**. The **mobile app (Android/APK version)** of his *In Loving Memory & Biography Website* is now available.
+
+This app was created to make it easier for family, friends, and loved ones to **access his life story, tributes, memories, and legacy anytime, anywhere**. It’s more than just an app — it’s a digital space where his memory continues to live on.
+
+---
+
+## 📲 Download the App (APK)
+
+👉 [Download Now](https://www.upload-apk.com/en/jwCNAMD5cEhnvL8)
+
+---
+
+🕊️ *Keeping the legacy alive through technology*
 ## 🧑‍💻 Author
 
 **Solomon Yaw Adeklo**  
