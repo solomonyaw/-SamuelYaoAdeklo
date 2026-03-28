@@ -47,6 +47,7 @@ export function TributesSection() {
         title="Tribute by Children"
         author="Gibson Michael Kumah"
         image="https://raw.githubusercontent.com/solomonyaw/-SamuelYaoAdeklo/main/gibson.jpeg"
+        youtubeLink="https://www.youtube.com/@buildwithgibson5396"
         quote="&quot;And the King shall answer and say unto them, Verily I say unto you, In as much as ye have done it unto one of the least of these my brethren, ye have done it unto me.&quot; - Matthew 25:40"
         content={<GibsonTribute />}
       />

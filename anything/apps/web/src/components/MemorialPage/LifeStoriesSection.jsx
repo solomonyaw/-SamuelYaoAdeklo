@@ -124,42 +124,54 @@ export function LifeStoriesSection({ onOpenLightbox }) {
             <div
               style={{
                 position: "relative",
-                height: "300px",
-                overflow: "hidden",
-                backgroundColor: "#f5f5f5",
+                padding: "8px",
+                background:
+                  "repeating-linear-gradient(0deg, #FFD700 0px, #FFD700 4px, #DC143C 4px, #DC143C 8px, #228B22 8px, #228B22 12px, #000000 12px, #000000 16px), repeating-linear-gradient(90deg, #FFD700 0px, #FFD700 4px, #DC143C 4px, #DC143C 8px, #228B22 8px, #228B22 12px, #000000 12px, #000000 16px)",
+                backgroundSize: "100% 8px, 8px 100%",
+                backgroundPosition: "0 0, 0 0",
+                backgroundRepeat: "repeat-x, repeat-y",
               }}
             >
-              <img
-                src={story.image}
-                alt={story.title}
-                style={{
-                  width: "100%",
-                  height: "100%",
-                  objectFit: "cover",
-                  transition: "transform 0.6s cubic-bezier(0.4, 0, 0.2, 1)",
-                }}
-                onMouseOver={(e) =>
-                  (e.currentTarget.style.transform = "scale(1.05)")
-                }
-                onMouseOut={(e) =>
-                  (e.currentTarget.style.transform = "scale(1)")
-                }
-              />
               <div
                 style={{
-                  position: "absolute",
-                  top: "20px",
-                  right: "20px",
-                  background:
-                    "linear-gradient(135deg, #C9A961 0%, #B8941F 100%)",
-                  color: "white",
-                  padding: "8px 16px",
-                  borderRadius: "20px",
-                  fontSize: "0.9rem",
-                  fontWeight: 600,
+                  position: "relative",
+                  height: "300px",
+                  overflow: "hidden",
+                  backgroundColor: "#f5f5f5",
                 }}
               >
-                {story.year}
+                <img
+                  src={story.image}
+                  alt={story.title}
+                  style={{
+                    width: "100%",
+                    height: "100%",
+                    objectFit: "cover",
+                    transition: "transform 0.6s cubic-bezier(0.4, 0, 0.2, 1)",
+                  }}
+                  onMouseOver={(e) =>
+                    (e.currentTarget.style.transform = "scale(1.05)")
+                  }
+                  onMouseOut={(e) =>
+                    (e.currentTarget.style.transform = "scale(1)")
+                  }
+                />
+                <div
+                  style={{
+                    position: "absolute",
+                    top: "20px",
+                    right: "20px",
+                    background:
+                      "linear-gradient(135deg, #C9A961 0%, #B8941F 100%)",
+                    color: "white",
+                    padding: "8px 16px",
+                    borderRadius: "20px",
+                    fontSize: "0.9rem",
+                    fontWeight: 600,
+                  }}
+                >
+                  {story.year}
+                </div>
               </div>
             </div>
             <div style={{ padding: "30px" }}>

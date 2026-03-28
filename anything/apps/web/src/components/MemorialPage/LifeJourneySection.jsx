@@ -91,42 +91,50 @@ export function LifeJourneySection({ onOpenLightbox }) {
           <div
             style={{
               width: "100%",
-              height: "450px",
-              borderRadius: "24px",
-              overflow: "hidden",
+              padding: "8px",
+              background:
+                "repeating-linear-gradient(0deg, #FFD700 0px, #FFD700 4px, #DC143C 4px, #DC143C 8px, #228B22 8px, #228B22 12px, #000000 12px, #000000 16px), repeating-linear-gradient(90deg, #FFD700 0px, #FFD700 4px, #DC143C 4px, #DC143C 8px, #228B22 8px, #228B22 12px, #000000 12px, #000000 16px)",
+              backgroundSize: "100% 8px, 8px 100%",
+              backgroundPosition: "0 0, 0 0",
+              backgroundRepeat: "repeat-x, repeat-y",
+              borderRadius: "28px",
               boxShadow: "0 20px 60px rgba(0, 0, 0, 0.15)",
-              cursor: "pointer",
               direction: "ltr",
-              backgroundColor: "#f5f5f5",
-              transition: "all 0.4s cubic-bezier(0.4, 0, 0.2, 1)",
-              border: "2px solid rgba(201, 169, 97, 0.2)",
-            }}
-            onClick={() => onOpenLightbox(item.image)}
-            onMouseOver={(e) => {
-              e.currentTarget.style.transform = "scale(1.02)";
-              e.currentTarget.style.boxShadow =
-                "0 25px 80px rgba(201, 169, 97, 0.25)";
-              const img = e.currentTarget.querySelector("img");
-              if (img) img.style.transform = "scale(1.05)";
-            }}
-            onMouseOut={(e) => {
-              e.currentTarget.style.transform = "scale(1)";
-              e.currentTarget.style.boxShadow =
-                "0 20px 60px rgba(0, 0, 0, 0.15)";
-              const img = e.currentTarget.querySelector("img");
-              if (img) img.style.transform = "scale(1)";
             }}
           >
-            <img
-              src={item.image}
-              alt={item.alt}
+            <div
               style={{
                 width: "100%",
-                height: "100%",
-                objectFit: "contain",
-                transition: "transform 0.6s cubic-bezier(0.4, 0, 0.2, 1)",
+                height: "450px",
+                borderRadius: "20px",
+                overflow: "hidden",
+                cursor: "pointer",
+                backgroundColor: "#f5f5f5",
+                transition: "all 0.4s cubic-bezier(0.4, 0, 0.2, 1)",
               }}
-            />
+              onClick={() => onOpenLightbox(item.image)}
+              onMouseOver={(e) => {
+                e.currentTarget.style.transform = "scale(0.98)";
+                const img = e.currentTarget.querySelector("img");
+                if (img) img.style.transform = "scale(1.05)";
+              }}
+              onMouseOut={(e) => {
+                e.currentTarget.style.transform = "scale(1)";
+                const img = e.currentTarget.querySelector("img");
+                if (img) img.style.transform = "scale(1)";
+              }}
+            >
+              <img
+                src={item.image}
+                alt={item.alt}
+                style={{
+                  width: "100%",
+                  height: "100%",
+                  objectFit: "contain",
+                  transition: "transform 0.6s cubic-bezier(0.4, 0, 0.2, 1)",
+                }}
+              />
+            </div>
           </div>
         </div>
       ))}

@@ -29,6 +29,60 @@ export function HymnsSection() {
           }}
         ></span>
       </h2>
+
+      {/* Audio Player */}
+      <div
+        style={{
+          maxWidth: "800px",
+          margin: "0 auto 40px auto",
+          padding: "30px",
+          background: "white",
+          borderRadius: "16px",
+          boxShadow: "0 5px 20px rgba(0, 0, 0, 0.1)",
+          border: "4px solid transparent",
+          borderImage:
+            "repeating-linear-gradient(90deg, #FFD700 0px, #FFD700 15px, #DC143C 15px, #DC143C 30px, #228B22 30px, #228B22 45px, #000000 45px, #000000 60px) 1",
+        }}
+      >
+        <div
+          style={{
+            fontSize: "1.3rem",
+            color: "var(--gold)",
+            textAlign: "center",
+            marginBottom: "20px",
+            fontWeight: 600,
+          }}
+        >
+          🎵 Will Your Anchor Hold
+        </div>
+        <audio
+          controls
+          style={{
+            width: "100%",
+            height: "50px",
+            borderRadius: "25px",
+            outline: "none",
+          }}
+        >
+          <source
+            src="https://files.cvaultx.com/wp-content/uploads/music/2022/07/Christian_Hymn_-_Will_Your_Anchor_Hold_In_The_Storm_Of_Light_We_Have_An_Anchor_CeeNaija.com_.mp3"
+            type="audio/mpeg"
+          />
+          Your browser does not support the audio element.
+        </audio>
+        <p
+          style={{
+            textAlign: "center",
+            fontSize: "0.9rem",
+            color: "#666",
+            marginTop: "15px",
+            fontStyle: "italic",
+          }}
+        >
+          A hymn of faith and steadfastness
+        </p>
+      </div>
+
       <div
         style={{
           maxWidth: "800px",
