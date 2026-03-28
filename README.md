@@ -70,7 +70,7 @@ I believe technology can do more than solve problems — it can **preserve legac
 
 ---
 
-## 🖼️ Project Preview (HTML Image Display)
+## 🖼️ Below are the family of Samuel Yaw Adeklo
 
 ### 🏠 Wife (Elizabeth Adeklo)
 <div align="center">
