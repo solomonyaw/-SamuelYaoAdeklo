@@ -14,6 +14,7 @@ import { PhotoGallery } from "@/components/MemorialPage/PhotoGallery";
 import { Lightbox } from "@/components/MemorialPage/Lightbox";
 import { HymnsSection } from "@/components/MemorialPage/HymnsSection";
 import { DownloadSection } from "@/components/MemorialPage/DownloadSection";
+import { APKDownloadSection } from "@/components/MemorialPage/APKDownloadSection";
 import { TimelineSection } from "@/components/MemorialPage/TimelineSection";
 import { InteractiveSection } from "@/components/MemorialPage/InteractiveSection";
 import { ClosingSection } from "@/components/MemorialPage/ClosingSection";
@@ -68,6 +69,8 @@ export default function MemorialPage() {
       <HymnsSection />
 
       <DownloadSection />
+
+      <APKDownloadSection />
 
       <TimelineSection />
 
