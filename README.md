@@ -93,47 +93,21 @@ I believe technology can do more than solve problems — it can **preserve legac
 </div>
 
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Memorial App - Samuel Yao Adeklo</title>
-</head>
-<body style="font-family: Arial, sans-serif; line-height: 1.6; background-color: #f9f9f9; color: #333; padding: 20px;">
+# 📱🌿 Memorial App Now Available – Honoring My Dad’s Legacy 🌿
 
-  <div style="max-width: 800px; margin: auto; background: #ffffff; padding: 30px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+I’m grateful to share another step in preserving the legacy of my late father, **Samuel Yao Adeklo**. The **mobile app (Android/APK version)** of his *In Loving Memory & Biography Website* is now available.
 
-    <h1 style="text-align: center;">📱🌿 Memorial App Now Available – Honoring My Dad’s Legacy 🌿</h1>
+This app was created to make it easier for family, friends, and loved ones to **access his life story, tributes, memories, and legacy anytime, anywhere**. It’s more than just an app — it’s a digital space where his memory continues to live on.
 
-    <p>
-      I’m grateful to share another step in preserving the legacy of my late father, 
-      <strong>Samuel Yao Adeklo</strong>. The <strong>mobile app (Android/APK version)</strong> 
-      of his <em>In Loving Memory &amp; Biography Website</em> is now available.
-    </p>
+---
 
-    <p>
-      This app was created to make it easier for family, friends, and loved ones to 
-      <strong>access his life story, tributes, memories, and legacy anytime, anywhere</strong>. 
-      It’s more than just an app — it’s a digital space where his memory continues to live on.
-    </p>
+## 📲 Download the App (APK)
 
-    <div style="margin-top: 30px; text-align: center;">
-      <h2>📲 Download the App (APK)</h2>
-      <a href="https://www.upload-apk.com/en/jwCNAMD5cEhnvL8" target="_blank" 
-         style="display: inline-block; padding: 12px 25px; background-color: #2c7be5; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold;">
-         Download Now
-      </a>
-    </div>
+👉 [Download Now](https://www.upload-apk.com/en/jwCNAMD5cEhnvL8)
 
-    <p style="margin-top: 40px; text-align: center; font-style: italic;">
-      🕊️ Keeping the legacy alive through technology
-    </p>
+---
 
-  </div>
-
-</body>
-</html>
-
+🕊️ *Keeping the legacy alive through technology*
 ## 🧑‍💻 Author
 
 **Solomon Yaw Adeklo**  
